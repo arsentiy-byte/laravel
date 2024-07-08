@@ -1,4 +1,4 @@
-# Базовый шаблон для разработки Telegram Bot на Laravel с использованием библиотеки [Nutgram](https://nutgram.dev/)
+# Базовый шаблон для разработки на Laravel
 Исполнитель и автор репозиторий: [Arsentiy Zhunussov](https://github.com/arsentiy-byte)
 
 - [Зависимости](docs/dependencies.md)
